@@ -1,0 +1,40 @@
+# Ignore Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore large data files (optional)
+*.csv
+*.xlsx
+
+# But keep important dataset files
+!data/processed/full_student_dataset.csv
+
+# Ignore model artifacts
+*.pkl
+models/
+!models/final_model.pkl   # Keep the final model
+
+# Ignore logs & temp files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore reports in Word format (optional)
+*.docx
+~$*.docx

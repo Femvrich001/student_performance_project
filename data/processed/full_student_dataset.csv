@@ -1,0 +1,421 @@
+ID No,Prog Code,Gender,state_of_origin,residence_type,parental_education,internet_access,has_scholarship,waec_score,jamb_score,attendance_rate,study_hours_per_week,assignment_score_avg,class_participation,CGPA400,CGPA300,CGPA200,CGPA100,degree_class,is_at_risk
+S1000,CHM,Female,Anambra,Off-Campus,Tertiary,Yes,Yes,340,235,95,9,73,Medium,2.21,2.02,1.93,1.96,Second Class Lower,Yes
+S1001,BIO,Female,Lagos,Off-Campus,Tertiary,No,No,392,230,80,17,72,Low,2.56,2.53,2.52,2.59,Second Class Lower,No
+S1002,PHY,Male,Lagos,On-Campus,Secondary,Yes,No,342,241,91,17,65,Low,2.86,2.8,2.71,2.55,Second Class Lower,No
+S1003,BIO,Male,Lagos,Off-Campus,Tertiary,Yes,Yes,359,271,83,30,63,Low,3.21,3.09,3.06,3.07,Second Class Upper,No
+S1004,BIO,Male,Rivers,Off-Campus,Primary,No,Yes,213,258,88,11,80,Low,2.96,2.84,2.73,2.68,Second Class Lower,No
+S1005,MTH,Female,Kaduna,Off-Campus,Primary,Yes,No,220,244,74,25,69,Low,2.45,2.37,2.51,2.36,Second Class Lower,Yes
+S1006,PHY,Male,Rivers,On-Campus,Primary,Yes,No,230,243,86,12,78,High,3.07,3.04,3.03,3.03,Second Class Upper,No
+S1007,PHY,Female,Kaduna,Off-Campus,,Yes,No,354,248,55,16,66,High,3.19,3.17,2.95,2.9,Second Class Upper,No
+S1008,PHY,Male,Lagos,On-Campus,Secondary,Yes,No,261,292,83,17,77,High,2.94,2.81,2.83,2.78,Second Class Lower,No
+S1009,BIO,Female,Anambra,On-Campus,Tertiary,Yes,No,237,196,69,16,88,Medium,2.32,2.21,2.22,2.1,Second Class Lower,Yes
+S1010,CHM,Male,Kaduna,Off-Campus,,Yes,No,254,244,97,15,81,Low,3.43,3.4,3.4,3.29,Second Class Upper,No
+S1011,PHY,Female,Oyo,On-Campus,Primary,Yes,No,364,202,93,29,71,High,3.43,3.27,3.35,3.32,Second Class Upper,No
+S1012,STA,Male,Oyo,Off-Campus,Secondary,No,No,202,247,90,22,78,Medium,2.35,2.31,2.48,2.42,Second Class Lower,Yes
+S1013,BIO,Male,Kano,Off-Campus,Tertiary,Yes,No,355,202,100,24,73,High,2.08,2.12,2.09,2.08,Second Class Lower,Yes
+S1014,MTH,Female,Kaduna,On-Campus,Secondary,Yes,No,307,217,76,7,75,High,2.72,2.74,2.68,2.78,Second Class Lower,No
+S1015,CHM,Male,Anambra,Off-Campus,Secondary,Yes,No,329,221,100,10,72,Low,2.31,2.36,2.31,2.24,Second Class Lower,Yes
+S1016,STA,Male,Rivers,Off-Campus,,Yes,No,196,259,94,14,73,Medium,3.38,3.36,3.33,3.09,Second Class Upper,No
+S1017,STA,Female,Lagos,Off-Campus,Primary,Yes,No,248,258,83,10,77,Low,2.44,2.26,2.21,2.25,Second Class Lower,Yes
+S1018,MTH,Female,Kano,Off-Campus,Tertiary,No,No,287,193,96,18,65,Low,3.24,3.27,3.12,3.14,Second Class Upper,No
+S1019,CHM,Male,Oyo,Off-Campus,Tertiary,Yes,No,318,232,74,5,65,High,1.77,1.7,1.67,1.71,Third Class,Yes
+S1020,BIO,Male,Rivers,Off-Campus,,Yes,No,273,209,77,26,61,Low,2.38,2.39,2.4,2.28,Second Class Lower,Yes
+S1021,CSC,Male,Rivers,Off-Campus,Tertiary,Yes,No,194,192,79,21,59,Medium,2.44,2.41,2.39,2.3,Second Class Lower,Yes
+S1022,CHM,Female,Lagos,On-Campus,Secondary,No,No,270,223,80,16,63,Low,2.37,2.47,2.37,2.33,Second Class Lower,Yes
+S1023,MTH,Male,Kaduna,Off-Campus,Tertiary,Yes,No,342,221,74,20,77,Low,2.36,2.34,2.14,2.19,Second Class Lower,Yes
+S1024,STA,Male,Oyo,On-Campus,Secondary,Yes,Yes,212,303,97,21,66,Low,2.52,2.49,2.5,2.44,Second Class Lower,No
+S1025,BIO,Male,Anambra,Off-Campus,Secondary,Yes,No,391,243,82,12,80,High,2.8,2.7,2.64,2.74,Second Class Lower,No
+S1026,CHM,Male,Rivers,Off-Campus,Secondary,No,No,304,189,89,11,75,Medium,2.36,2.29,2.2,2.14,Second Class Lower,Yes
+S1027,CSC,Female,Lagos,On-Campus,Secondary,Yes,No,195,213,79,15,55,High,2.52,2.59,2.64,2.5,Second Class Lower,No
+S1028,CSC,Male,Anambra,Off-Campus,Primary,No,No,341,261,67,19,82,High,2.66,2.51,2.45,2.53,Second Class Lower,No
+S1029,PHY,Female,Kaduna,Off-Campus,,Yes,No,245,293,88,16,83,High,3.13,3.06,3.16,3.26,Second Class Upper,No
+S1030,PHY,Male,Oyo,On-Campus,Secondary,Yes,No,347,182,66,7,65,High,2.27,2.2,2.33,2.12,Second Class Lower,Yes
+S1031,MTH,Male,Kaduna,Off-Campus,Tertiary,Yes,No,335,264,84,11,79,High,3.46,3.41,3.32,3.33,Second Class Upper,No
+S1032,CHM,Male,Rivers,Off-Campus,Primary,Yes,No,226,286,71,15,66,Medium,2.72,2.72,2.71,2.54,Second Class Lower,No
+S1033,CHM,Male,Anambra,On-Campus,Secondary,Yes,Yes,346,242,100,15,76,Low,3.28,3.21,3.14,3.11,Second Class Upper,No
+S1034,STA,Female,Anambra,Off-Campus,Tertiary,Yes,No,377,204,94,9,62,High,1.64,1.54,1.5,1.46,Third Class,Yes
+S1035,STA,Female,Anambra,On-Campus,,Yes,No,380,246,86,8,57,High,2.03,2.15,2.2,2.11,Second Class Lower,Yes
+S1036,STA,Female,Rivers,Off-Campus,Secondary,Yes,No,327,160,98,18,71,Medium,2.61,2.62,2.57,2.61,Second Class Lower,No
+S1037,PHY,Female,Rivers,Off-Campus,Secondary,Yes,Yes,303,230,77,22,74,Medium,2.5,2.48,2.55,2.49,Second Class Lower,No
+S1038,CHM,Male,Kaduna,Off-Campus,Tertiary,No,Yes,180,240,90,26,71,Low,3.27,3.19,3.0,2.99,Second Class Upper,No
+S1039,CHM,Female,Kano,Off-Campus,Primary,No,No,379,258,87,13,63,Medium,3.18,3.01,3.09,3.17,Second Class Upper,No
+S1040,CSC,Male,Kaduna,Off-Campus,Secondary,Yes,No,266,200,88,17,71,Low,3.04,3.07,3.04,2.95,Second Class Upper,No
+S1041,PHY,Female,Oyo,Off-Campus,Tertiary,Yes,No,307,233,98,18,78,High,2.19,2.19,2.25,2.22,Second Class Lower,Yes
+S1042,BIO,Male,Lagos,On-Campus,Tertiary,Yes,No,370,202,92,16,75,High,2.94,2.94,2.84,2.8,Second Class Lower,No
+S1043,PHY,Male,Anambra,Off-Campus,Secondary,Yes,Yes,246,238,88,15,77,Low,2.4,2.43,2.42,2.49,Second Class Lower,Yes
+S1044,BIO,Male,Kano,On-Campus,Secondary,Yes,No,183,203,68,17,68,Medium,3.23,3.21,3.22,3.01,Second Class Upper,No
+S1045,CSC,Male,Lagos,Off-Campus,Secondary,Yes,No,365,218,75,2,87,Low,3.03,2.9,2.76,2.63,Second Class Upper,No
+S1046,MTH,Male,Kano,On-Campus,Tertiary,Yes,No,332,200,84,18,63,Medium,3.02,3.07,3.02,2.87,Second Class Upper,No
+S1047,CHM,Male,Kaduna,On-Campus,Secondary,Yes,No,226,250,86,16,80,High,1.71,1.62,1.52,1.5,Third Class,Yes
+S1048,CSC,Female,Rivers,On-Campus,,Yes,Yes,217,256,74,14,87,Medium,2.53,2.65,2.7,2.82,Second Class Lower,No
+S1049,CHM,Male,Anambra,Off-Campus,Tertiary,Yes,Yes,322,223,100,25,80,Low,3.25,3.26,3.35,3.1,Second Class Upper,No
+S1050,STA,Male,Kaduna,On-Campus,Secondary,Yes,No,370,231,100,12,73,Low,2.24,2.22,2.16,2.12,Second Class Lower,Yes
+S1051,MTH,Female,Lagos,Off-Campus,Secondary,Yes,Yes,200,187,91,13,70,High,3.36,3.15,3.13,3.15,Second Class Upper,No
+S1052,MTH,Female,Lagos,On-Campus,Primary,Yes,Yes,236,221,86,25,85,Medium,1.17,1.14,1.03,1.0,Third Class,Yes
+S1053,CSC,Male,Lagos,On-Campus,Secondary,Yes,No,296,228,83,11,61,Medium,2.19,2.36,2.32,2.15,Second Class Lower,Yes
+S1054,MTH,Male,Lagos,Off-Campus,Secondary,Yes,No,360,309,75,12,65,Medium,3.23,3.38,3.31,3.26,Second Class Upper,No
+S1055,BIO,Female,Lagos,Off-Campus,Secondary,No,No,225,197,86,14,71,High,2.28,2.23,2.34,2.16,Second Class Lower,Yes
+S1056,MTH,Male,Kano,On-Campus,Primary,Yes,No,321,274,88,19,87,Medium,3.12,3.01,2.77,2.61,Second Class Upper,No
+S1057,CHM,Female,Kaduna,Off-Campus,Secondary,Yes,No,383,260,73,16,79,Low,1.64,1.55,1.52,1.58,Third Class,Yes
+S1058,CHM,Female,Anambra,Off-Campus,Tertiary,Yes,No,324,238,88,9,65,Medium,3.32,3.25,3.13,3.15,Second Class Upper,No
+S1059,CHM,Male,Rivers,Off-Campus,,Yes,No,218,283,83,12,72,High,2.82,2.65,2.68,2.54,Second Class Lower,No
+S1060,CHM,Male,Rivers,On-Campus,Tertiary,Yes,Yes,316,241,66,12,69,Medium,3.2,3.21,3.13,3.35,Second Class Upper,No
+S1061,BIO,Female,Kaduna,On-Campus,Secondary,Yes,No,278,242,76,15,68,Medium,2.07,1.93,2.01,1.98,Second Class Lower,Yes
+S1062,PHY,Female,Kaduna,Off-Campus,Tertiary,Yes,Yes,256,228,81,17,85,Low,2.27,2.38,2.29,2.38,Second Class Lower,Yes
+S1063,STA,Female,Rivers,On-Campus,Tertiary,No,No,386,267,100,17,61,Medium,2.97,3.01,3.0,2.99,Second Class Lower,No
+S1064,CSC,Female,Rivers,Off-Campus,Secondary,Yes,No,389,263,91,6,91,Low,2.59,2.72,2.67,2.65,Second Class Lower,No
+S1065,CHM,Female,Kano,Off-Campus,Tertiary,Yes,No,294,211,72,20,83,Low,2.7,2.68,2.56,2.55,Second Class Lower,No
+S1066,MTH,Female,Oyo,Off-Campus,Tertiary,Yes,No,313,190,90,16,86,High,3.5,3.46,3.53,3.54,First Class,No
+S1067,CHM,Female,Anambra,Off-Campus,Secondary,Yes,No,398,224,70,22,70,Low,3.25,3.19,3.21,3.27,Second Class Upper,No
+S1068,MTH,Female,Lagos,Off-Campus,Secondary,Yes,No,330,206,96,17,74,Low,3.02,2.96,2.87,2.59,Second Class Upper,No
+S1069,STA,Female,Oyo,On-Campus,Secondary,Yes,Yes,366,228,80,21,61,High,1.56,1.61,1.35,1.11,Third Class,Yes
+S1070,STA,Female,Kaduna,Off-Campus,Tertiary,Yes,No,270,267,84,17,70,Low,3.45,3.42,3.38,3.45,Second Class Upper,No
+S1071,STA,Female,Rivers,Off-Campus,Tertiary,Yes,No,277,216,98,22,80,High,2.96,3.06,2.95,2.74,Second Class Lower,No
+S1072,MTH,Female,Oyo,Off-Campus,Tertiary,Yes,No,299,229,72,18,88,Medium,2.54,2.35,2.31,2.3,Second Class Lower,No
+S1073,CHM,Male,Anambra,Off-Campus,Secondary,Yes,No,225,232,71,15,64,High,3.22,3.2,2.96,2.9,Second Class Upper,No
+S1074,STA,Female,Kaduna,Off-Campus,Tertiary,Yes,No,217,255,79,26,71,Low,3.46,3.46,3.59,3.54,Second Class Upper,No
+S1075,BIO,Female,Lagos,Off-Campus,Primary,Yes,No,321,288,95,19,73,High,3.33,3.12,3.06,3.08,Second Class Upper,No
+S1076,MTH,Female,Lagos,Off-Campus,Secondary,Yes,No,279,212,70,18,61,Low,3.03,3.11,3.22,3.07,Second Class Upper,No
+S1077,MTH,Female,Anambra,Off-Campus,,Yes,No,251,236,57,29,81,Medium,3.23,3.29,3.49,3.43,Second Class Upper,No
+S1078,CHM,Female,Anambra,Off-Campus,Secondary,Yes,No,369,266,80,30,68,High,3.62,3.68,3.6,3.6,First Class,No
+S1079,MTH,Male,Rivers,Off-Campus,Secondary,Yes,No,214,215,91,16,73,Medium,2.47,2.42,2.36,2.44,Second Class Lower,Yes
+S1080,MTH,Male,Lagos,On-Campus,Secondary,No,No,326,174,97,6,70,Low,1.45,1.36,1.34,1.38,Third Class,Yes
+S1081,STA,Male,Kaduna,On-Campus,Secondary,Yes,Yes,209,249,80,12,67,Low,3.29,3.16,3.12,3.24,Second Class Upper,No
+S1082,CHM,Male,Oyo,On-Campus,Secondary,Yes,No,257,211,81,16,75,Medium,3.17,2.87,2.51,2.46,Second Class Upper,No
+S1083,STA,Male,Kaduna,On-Campus,Secondary,Yes,Yes,263,194,97,23,73,High,3.58,3.76,3.73,3.8,First Class,No
+S1084,STA,Female,Kano,On-Campus,Primary,Yes,No,292,211,66,18,71,High,2.5,2.39,2.29,2.26,Second Class Lower,No
+S1085,CHM,Male,Kano,On-Campus,Secondary,No,Yes,204,224,81,9,68,Low,2.82,2.83,2.84,2.66,Second Class Lower,No
+S1086,CSC,Female,Anambra,On-Campus,Primary,No,No,347,212,87,14,78,Medium,3.33,3.33,3.25,3.08,Second Class Upper,No
+S1087,STA,Male,Rivers,On-Campus,,Yes,No,267,164,89,11,92,Medium,3.17,3.18,3.15,3.1,Second Class Upper,No
+S1088,BIO,Female,Kano,Off-Campus,Secondary,Yes,Yes,193,257,80,13,76,High,2.93,2.97,2.96,2.92,Second Class Lower,No
+S1089,BIO,Male,Lagos,Off-Campus,Secondary,Yes,No,333,268,85,13,85,High,2.9,2.68,2.45,2.21,Second Class Lower,No
+S1090,MTH,Male,Kaduna,On-Campus,Secondary,No,No,281,250,60,13,61,High,3.6,3.47,3.3,3.2,First Class,No
+S1091,BIO,Male,Kaduna,Off-Campus,Secondary,Yes,No,394,196,78,9,77,Medium,2.04,1.99,1.92,1.91,Second Class Lower,Yes
+S1092,MTH,Female,Anambra,On-Campus,Secondary,Yes,Yes,329,224,90,14,64,High,3.36,3.18,3.36,3.45,Second Class Upper,No
+S1093,CSC,Male,Oyo,Off-Campus,Tertiary,Yes,No,355,230,75,12,60,High,3.41,3.51,3.49,3.4,Second Class Upper,No
+S1094,CHM,Female,Anambra,Off-Campus,Secondary,Yes,No,262,248,86,0,68,Low,2.96,3.04,2.72,2.59,Second Class Lower,No
+S1095,CHM,Male,Oyo,On-Campus,Secondary,Yes,Yes,289,250,89,25,87,High,2.88,3.05,3.02,3.03,Second Class Lower,No
+S1096,CHM,Male,Anambra,Off-Campus,,Yes,Yes,358,208,82,20,85,High,3.29,3.31,3.15,3.07,Second Class Upper,No
+S1097,BIO,Female,Anambra,Off-Campus,Secondary,Yes,No,310,232,87,13,77,Medium,1.52,1.46,1.26,1.25,Third Class,Yes
+S1098,CSC,Female,Anambra,Off-Campus,Secondary,Yes,No,349,244,75,15,60,Medium,3.01,2.95,2.88,2.85,Second Class Upper,No
+S1099,BIO,Male,Oyo,Off-Campus,Secondary,Yes,No,198,274,83,9,73,Low,2.24,2.18,2.21,2.41,Second Class Lower,Yes
+S1100,BIO,Female,Oyo,Off-Campus,Secondary,Yes,No,380,251,91,23,78,High,2.46,2.55,2.74,2.71,Second Class Lower,Yes
+S1101,CSC,Female,Anambra,On-Campus,Secondary,Yes,No,207,254,87,24,77,Low,2.62,2.49,2.37,2.23,Second Class Lower,No
+S1102,CSC,Female,Kano,Off-Campus,Secondary,Yes,No,391,233,79,16,57,Medium,2.55,2.48,2.51,2.52,Second Class Lower,No
+S1103,CSC,Male,Rivers,On-Campus,Tertiary,Yes,Yes,352,272,87,20,66,Low,3.36,3.24,3.17,3.12,Second Class Upper,No
+S1104,CSC,Male,Rivers,Off-Campus,Tertiary,Yes,No,250,242,92,16,74,Medium,1.28,1.42,1.49,1.52,Third Class,Yes
+S1105,CHM,Female,Rivers,Off-Campus,Tertiary,Yes,No,385,204,65,8,80,Low,2.56,2.48,2.45,2.37,Second Class Lower,No
+S1106,PHY,Female,Oyo,Off-Campus,Tertiary,Yes,No,242,272,97,13,53,Low,2.09,2.16,2.1,2.07,Second Class Lower,Yes
+S1107,PHY,Female,Oyo,Off-Campus,,Yes,No,252,251,82,16,73,High,3.2,3.19,3.12,3.16,Second Class Upper,No
+S1108,CSC,Male,Kano,On-Campus,Primary,Yes,No,303,217,89,13,76,Low,2.74,2.64,2.7,2.52,Second Class Lower,No
+S1109,PHY,Female,Rivers,On-Campus,,Yes,Yes,298,216,97,14,83,High,2.69,2.63,2.46,2.31,Second Class Lower,No
+S1110,PHY,Female,Rivers,On-Campus,Secondary,Yes,No,300,239,71,15,82,High,3.49,3.52,3.53,3.54,Second Class Upper,No
+S1111,CSC,Male,Anambra,On-Campus,Tertiary,Yes,Yes,198,244,78,15,81,High,1.28,1.22,1.34,1.24,Third Class,Yes
+S1112,PHY,Male,Oyo,Off-Campus,Primary,Yes,No,354,236,82,15,67,High,3.75,3.85,3.81,3.71,First Class,No
+S1113,BIO,Female,Rivers,On-Campus,Tertiary,Yes,Yes,321,239,77,10,56,Low,3.16,3.0,2.94,2.83,Second Class Upper,No
+S1114,MTH,Male,Kaduna,On-Campus,,Yes,Yes,299,281,100,11,71,Medium,2.44,2.41,2.34,2.46,Second Class Lower,Yes
+S1115,MTH,Male,Kano,Off-Campus,Tertiary,Yes,No,345,262,76,9,85,Medium,2.85,2.69,2.5,2.35,Second Class Lower,No
+S1116,CSC,Male,Kaduna,Off-Campus,Secondary,Yes,No,360,236,79,20,89,Medium,2.68,2.68,2.65,2.66,Second Class Lower,No
+S1117,CHM,Male,Kaduna,Off-Campus,Primary,Yes,No,240,258,87,4,82,Low,3.94,3.94,3.91,3.89,First Class,No
+S1118,CSC,Male,Kano,Off-Campus,Secondary,Yes,No,343,199,73,21,79,High,1.2,1.23,1.29,1.0,Third Class,Yes
+S1119,CHM,Female,Kaduna,On-Campus,Primary,Yes,Yes,347,242,81,22,79,Medium,3.94,3.8,3.67,3.59,First Class,No
+S1120,MTH,Female,Rivers,On-Campus,Primary,Yes,Yes,388,284,88,13,69,Low,3.03,3.05,2.98,2.97,Second Class Upper,No
+S1121,CSC,Male,Oyo,Off-Campus,Secondary,Yes,No,209,223,82,2,74,High,3.94,3.83,3.82,3.99,First Class,No
+S1122,STA,Female,Kano,Off-Campus,Tertiary,Yes,No,188,205,84,13,92,Medium,2.33,2.31,2.45,2.27,Second Class Lower,Yes
+S1123,BIO,Female,Anambra,On-Campus,Secondary,Yes,No,243,210,80,15,66,High,1.31,1.46,1.26,1.35,Third Class,Yes
+S1124,PHY,Male,Kaduna,Off-Campus,Secondary,Yes,No,340,197,70,10,91,Medium,2.51,2.51,2.59,2.64,Second Class Lower,No
+S1125,CHM,Male,Kano,On-Campus,Secondary,Yes,No,299,206,88,12,72,Medium,2.93,3.0,3.01,2.99,Second Class Lower,No
+S1126,STA,Male,Lagos,On-Campus,Tertiary,Yes,No,231,219,100,23,88,Medium,3.52,3.47,3.38,3.19,First Class,No
+S1127,PHY,Male,Lagos,Off-Campus,Primary,Yes,No,268,188,85,18,61,High,2.35,2.42,2.49,2.36,Second Class Lower,Yes
+S1128,PHY,Female,Oyo,Off-Campus,Secondary,No,No,321,230,87,10,81,Low,2.85,2.71,2.8,2.77,Second Class Lower,No
+S1129,CSC,Female,Rivers,Off-Campus,Primary,No,No,382,257,92,7,68,High,2.39,2.35,2.51,2.43,Second Class Lower,Yes
+S1130,PHY,Male,Oyo,On-Campus,Primary,Yes,No,232,203,72,13,61,Medium,3.6,3.57,3.45,3.46,First Class,No
+S1131,BIO,Female,Oyo,Off-Campus,Secondary,Yes,No,366,276,100,14,77,High,2.42,2.3,2.31,2.25,Second Class Lower,Yes
+S1132,STA,Female,Oyo,On-Campus,Primary,Yes,No,257,245,87,17,85,Low,2.38,2.24,1.89,1.84,Second Class Lower,Yes
+S1133,PHY,Male,Oyo,On-Campus,Secondary,Yes,No,220,261,100,12,67,High,2.91,2.86,2.91,2.76,Second Class Lower,No
+S1134,CSC,Female,Anambra,Off-Campus,Tertiary,Yes,No,375,210,78,18,60,Low,2.75,2.78,2.82,2.68,Second Class Lower,No
+S1135,BIO,Female,Anambra,Off-Campus,Primary,Yes,No,247,256,100,25,74,Low,3.25,3.37,3.38,3.28,Second Class Upper,No
+S1136,MTH,Female,Kano,Off-Campus,Secondary,Yes,No,399,197,93,19,74,High,2.98,3.0,2.92,2.91,Second Class Lower,No
+S1137,STA,Male,Lagos,Off-Campus,Primary,Yes,No,187,257,91,15,80,Medium,3.23,3.24,3.24,3.11,Second Class Upper,No
+S1138,PHY,Female,Oyo,Off-Campus,Tertiary,Yes,No,181,235,87,14,84,Low,2.06,2.0,1.89,1.84,Second Class Lower,Yes
+S1139,CSC,Female,Kano,Off-Campus,Secondary,Yes,No,284,247,83,13,74,High,2.26,2.24,2.29,2.35,Second Class Lower,Yes
+S1140,MTH,Female,Lagos,On-Campus,Tertiary,Yes,No,304,195,97,21,94,Low,3.21,3.09,3.18,3.17,Second Class Upper,No
+S1141,MTH,Female,Kaduna,Off-Campus,Secondary,Yes,No,289,203,86,12,77,Medium,1.16,1.17,1.3,1.24,Third Class,Yes
+S1142,CHM,Female,Rivers,On-Campus,,Yes,No,265,248,65,15,72,High,2.94,2.89,3.07,2.93,Second Class Lower,No
+S1143,BIO,Female,Anambra,On-Campus,Secondary,Yes,No,348,202,74,15,59,High,3.88,3.72,3.72,3.69,First Class,No
+S1144,PHY,Female,Kaduna,Off-Campus,Tertiary,Yes,No,299,244,83,12,72,High,2.27,2.18,2.16,2.23,Second Class Lower,Yes
+S1145,CSC,Female,Lagos,Off-Campus,Secondary,Yes,Yes,306,189,88,8,72,Medium,3.29,3.25,3.26,3.2,Second Class Upper,No
+S1146,CHM,Male,Kaduna,On-Campus,Tertiary,Yes,No,362,255,84,17,85,Low,2.71,2.72,2.55,2.49,Second Class Lower,No
+S1147,BIO,Male,Rivers,On-Campus,Tertiary,Yes,Yes,195,193,97,15,80,High,2.93,2.95,2.77,2.7,Second Class Lower,No
+S1148,CHM,Male,Lagos,Off-Campus,Primary,Yes,No,400,247,65,18,63,Low,1.87,1.91,1.89,1.75,Third Class,Yes
+S1149,STA,Female,Kaduna,On-Campus,Primary,No,No,241,249,86,12,77,Low,2.51,2.51,2.64,2.49,Second Class Lower,No
+S1150,BIO,Male,Anambra,Off-Campus,Secondary,Yes,Yes,292,209,67,21,82,Medium,2.77,2.64,2.65,2.66,Second Class Lower,No
+S1151,BIO,Female,Anambra,Off-Campus,Secondary,Yes,Yes,355,247,93,11,90,High,2.56,2.53,2.54,2.55,Second Class Lower,No
+S1152,PHY,Male,Kano,Off-Campus,Tertiary,No,No,337,238,84,24,84,Low,3.27,3.36,3.37,3.43,Second Class Upper,No
+S1153,BIO,Female,Kaduna,Off-Campus,Tertiary,Yes,No,191,214,89,6,83,High,2.11,1.89,1.91,1.79,Second Class Lower,Yes
+S1154,CHM,Female,Oyo,Off-Campus,Secondary,Yes,No,214,200,76,17,76,High,2.12,2.04,2.06,1.86,Second Class Lower,Yes
+S1155,BIO,Female,Kaduna,On-Campus,Primary,Yes,Yes,190,171,98,17,79,Medium,3.26,3.35,3.34,3.32,Second Class Upper,No
+S1156,PHY,Male,Lagos,Off-Campus,Tertiary,Yes,No,243,240,95,11,87,High,3.13,3.13,3.14,3.11,Second Class Upper,No
+S1157,PHY,Female,Lagos,Off-Campus,Primary,Yes,No,229,183,91,17,62,High,2.02,1.96,1.89,1.69,Second Class Lower,Yes
+S1158,STA,Female,Kaduna,On-Campus,Tertiary,Yes,No,392,233,84,21,72,Low,2.72,2.5,2.41,2.31,Second Class Lower,No
+S1159,CHM,Male,Rivers,Off-Campus,Secondary,Yes,No,328,222,91,4,67,Medium,3.02,3.08,3.12,3.02,Second Class Upper,No
+S1160,MTH,Female,Anambra,Off-Campus,Secondary,Yes,No,248,250,78,18,79,High,3.29,3.14,2.97,3.04,Second Class Upper,No
+S1161,MTH,Male,Lagos,Off-Campus,,Yes,No,227,221,94,3,87,Low,3.26,3.07,3.12,3.0,Second Class Upper,No
+S1162,BIO,Male,Anambra,Off-Campus,Secondary,Yes,No,199,220,100,10,69,Medium,2.96,2.97,3.08,3.13,Second Class Lower,No
+S1163,STA,Female,Lagos,Off-Campus,Secondary,Yes,No,280,252,96,23,51,Medium,3.24,3.22,3.13,3.19,Second Class Upper,No
+S1164,CSC,Male,Kano,Off-Campus,Secondary,Yes,No,374,240,78,12,71,Low,2.06,2.12,2.15,2.13,Second Class Lower,Yes
+S1165,BIO,Male,Oyo,Off-Campus,Primary,Yes,Yes,351,239,89,9,84,Low,3.27,3.24,3.16,3.17,Second Class Upper,No
+S1166,STA,Male,Lagos,Off-Campus,Tertiary,Yes,No,340,244,72,14,80,Low,2.83,2.79,2.98,2.95,Second Class Lower,No
+S1167,CHM,Male,Anambra,Off-Campus,Tertiary,Yes,Yes,380,184,91,25,79,Low,3.49,3.37,3.18,3.28,Second Class Upper,No
+S1168,CHM,Male,Kano,Off-Campus,Primary,Yes,No,368,253,90,6,72,Low,2.43,2.27,2.15,2.0,Second Class Lower,Yes
+S1169,CHM,Female,Lagos,Off-Campus,,Yes,No,316,248,66,10,62,High,3.16,3.18,3.28,3.12,Second Class Upper,No
+S1170,CHM,Female,Rivers,On-Campus,,No,No,247,199,73,22,80,High,2.9,3.04,3.14,3.29,Second Class Lower,No
+S1171,CHM,Female,Oyo,Off-Campus,Secondary,Yes,Yes,214,223,82,24,67,Medium,3.09,3.05,2.83,2.68,Second Class Upper,No
+S1172,STA,Female,Lagos,Off-Campus,Secondary,Yes,Yes,388,229,82,14,97,High,2.61,2.53,2.55,2.58,Second Class Lower,No
+S1173,STA,Female,Kano,On-Campus,Secondary,Yes,No,395,226,73,9,81,High,2.4,2.33,2.36,2.22,Second Class Lower,Yes
+S1174,PHY,Female,Rivers,Off-Campus,Primary,Yes,Yes,244,240,89,25,69,High,3.02,3.0,3.18,3.14,Second Class Upper,No
+S1175,MTH,Male,Kaduna,On-Campus,Secondary,Yes,Yes,187,273,88,23,69,Low,2.34,2.28,2.27,2.21,Second Class Lower,Yes
+S1176,CHM,Male,Kano,On-Campus,Secondary,No,No,224,262,83,18,74,Medium,2.26,2.06,2.03,2.0,Second Class Lower,Yes
+S1177,CSC,Male,Kano,Off-Campus,Secondary,Yes,No,266,191,77,11,73,Medium,3.34,3.25,3.13,2.96,Second Class Upper,No
+S1178,STA,Male,Rivers,On-Campus,Tertiary,Yes,No,354,249,95,15,86,Medium,3.46,3.45,3.54,3.62,Second Class Upper,No
+S1179,CSC,Female,Kano,Off-Campus,Primary,Yes,No,347,270,100,14,77,Medium,3.13,3.13,3.23,3.12,Second Class Upper,No
+S1180,CSC,Male,Rivers,Off-Campus,Secondary,Yes,Yes,255,242,80,17,68,High,2.8,2.77,2.68,2.52,Second Class Lower,No
+S1181,CSC,Female,Lagos,Off-Campus,Secondary,Yes,No,361,263,79,22,94,High,2.05,1.84,1.69,1.57,Second Class Lower,Yes
+S1182,PHY,Female,Rivers,On-Campus,Secondary,Yes,No,255,290,90,19,75,Low,3.26,3.23,3.34,3.06,Second Class Upper,No
+S1183,STA,Female,Rivers,On-Campus,Tertiary,Yes,No,353,261,81,10,83,Medium,2.07,2.02,1.86,1.87,Second Class Lower,Yes
+S1184,CSC,Male,Oyo,Off-Campus,Secondary,Yes,No,226,237,84,22,69,High,2.92,2.92,2.87,2.72,Second Class Lower,No
+S1185,CHM,Male,Rivers,Off-Campus,Tertiary,Yes,No,194,261,92,17,79,High,1.76,1.6,1.44,1.4,Third Class,Yes
+S1186,BIO,Female,Rivers,Off-Campus,Primary,No,No,284,234,66,18,78,Low,2.65,2.41,2.36,2.19,Second Class Lower,No
+S1187,CSC,Female,Kaduna,On-Campus,Primary,Yes,No,326,231,98,22,56,Low,1.82,1.72,1.92,1.87,Third Class,Yes
+S1188,PHY,Male,Lagos,Off-Campus,Tertiary,Yes,No,205,219,86,9,95,Low,2.64,2.58,2.55,2.54,Second Class Lower,No
+S1189,STA,Female,Oyo,Off-Campus,Secondary,Yes,No,231,277,81,15,88,High,3.47,3.42,3.27,3.08,Second Class Upper,No
+S1190,PHY,Male,Kaduna,Off-Campus,Primary,Yes,No,272,205,84,12,71,High,2.71,2.9,2.93,2.93,Second Class Lower,No
+S1191,CSC,Male,Anambra,On-Campus,,No,No,329,276,85,7,64,Low,2.92,2.79,2.78,2.87,Second Class Lower,No
+S1192,STA,Male,Lagos,Off-Campus,,Yes,No,200,245,68,17,78,Medium,2.51,2.45,2.42,2.42,Second Class Lower,No
+S1193,BIO,Male,Lagos,Off-Campus,Tertiary,Yes,Yes,230,188,100,28,76,Low,2.12,2.02,2.26,2.15,Second Class Lower,Yes
+S1194,CSC,Female,Anambra,Off-Campus,Primary,No,No,217,241,85,6,79,Low,2.52,2.54,2.33,2.14,Second Class Lower,No
+S1195,PHY,Female,Rivers,On-Campus,Secondary,Yes,No,199,167,89,15,77,Low,2.13,2.11,2.15,2.09,Second Class Lower,Yes
+S1196,MTH,Male,Kaduna,Off-Campus,Primary,No,No,336,249,95,18,80,Low,3.29,3.28,3.18,3.0,Second Class Upper,No
+S1197,CHM,Female,Kano,Off-Campus,Secondary,Yes,No,358,257,75,16,89,High,3.24,3.08,3.04,3.13,Second Class Upper,No
+S1198,PHY,Female,Oyo,On-Campus,,Yes,No,311,212,90,14,81,Medium,2.62,2.6,2.43,2.42,Second Class Lower,No
+S1199,STA,Female,Kano,Off-Campus,Secondary,Yes,No,234,234,82,9,65,Low,2.01,1.75,1.66,1.64,Second Class Lower,Yes
+S1200,CSC,Male,Anambra,Off-Campus,,Yes,No,378,289,93,16,89,Medium,3.1,3.0,2.98,2.94,Second Class Upper,No
+S1201,CHM,Male,Lagos,On-Campus,Tertiary,No,Yes,271,215,64,11,91,Medium,2.49,2.56,2.6,2.54,Second Class Lower,Yes
+S1202,CSC,Male,Lagos,On-Campus,Primary,Yes,Yes,207,198,84,4,100,Medium,2.94,2.9,2.77,2.65,Second Class Lower,No
+S1203,STA,Male,Oyo,Off-Campus,Secondary,Yes,No,183,274,79,21,64,Low,3.19,3.2,3.34,3.33,Second Class Upper,No
+S1204,CSC,Male,Lagos,On-Campus,Tertiary,Yes,No,329,289,89,20,77,High,3.21,3.38,3.26,3.2,Second Class Upper,No
+S1205,MTH,Female,Lagos,Off-Campus,Secondary,Yes,No,255,230,90,15,54,Low,3.35,3.14,3.2,3.15,Second Class Upper,No
+S1206,CHM,Male,Oyo,On-Campus,Secondary,Yes,No,352,260,78,16,81,Medium,1.6,1.48,1.3,1.34,Third Class,Yes
+S1207,CHM,Male,Kaduna,Off-Campus,Secondary,No,No,246,270,78,20,70,Medium,3.15,3.04,2.98,2.94,Second Class Upper,No
+S1208,STA,Male,Kaduna,On-Campus,Secondary,Yes,No,265,208,84,16,94,High,3.2,3.13,3.02,2.98,Second Class Upper,No
+S1209,MTH,Male,Oyo,Off-Campus,Secondary,Yes,Yes,373,215,76,20,67,Low,2.22,2.3,2.25,2.21,Second Class Lower,Yes
+S1210,PHY,Male,Anambra,Off-Campus,Tertiary,Yes,No,395,267,93,14,58,Medium,3.47,3.47,3.6,3.54,Second Class Upper,No
+S1211,CSC,Male,Lagos,Off-Campus,Secondary,Yes,No,341,281,81,22,70,High,3.57,3.43,3.47,3.41,First Class,No
+S1212,BIO,Male,Lagos,Off-Campus,Secondary,Yes,No,270,247,56,17,55,Medium,3.18,3.24,3.12,3.11,Second Class Upper,No
+S1213,CSC,Male,Anambra,On-Campus,Tertiary,Yes,No,362,204,81,16,83,High,2.03,2.23,2.16,1.98,Second Class Lower,Yes
+S1214,CSC,Male,Kaduna,Off-Campus,Secondary,No,No,284,290,75,9,54,High,2.22,2.19,2.02,2.09,Second Class Lower,Yes
+S1215,PHY,Female,Rivers,On-Campus,,Yes,No,180,214,69,16,75,Low,3.38,3.35,3.26,3.28,Second Class Upper,No
+S1216,CSC,Male,Rivers,On-Campus,Secondary,Yes,No,251,220,73,11,54,Medium,2.2,2.14,2.18,1.85,Second Class Lower,Yes
+S1217,MTH,Male,Rivers,On-Campus,Tertiary,Yes,No,266,240,86,12,72,Low,1.08,1.0,1.0,1.04,Third Class,Yes
+S1218,MTH,Male,Kaduna,Off-Campus,Primary,No,No,345,277,98,11,91,Medium,3.23,3.12,3.06,3.14,Second Class Upper,No
+S1219,CHM,Female,Kaduna,Off-Campus,Secondary,Yes,No,185,256,88,10,79,Low,3.0,2.93,3.11,2.99,Second Class Upper,No
+S1220,STA,Male,Anambra,Off-Campus,Primary,Yes,No,393,242,79,26,66,Medium,3.04,2.87,2.65,2.81,Second Class Upper,No
+S1221,BIO,Female,Lagos,Off-Campus,Secondary,Yes,Yes,332,244,90,22,75,Low,2.8,2.9,2.81,2.78,Second Class Lower,No
+S1222,CSC,Female,Anambra,On-Campus,,Yes,No,389,231,80,25,75,High,2.76,2.66,2.49,2.23,Second Class Lower,No
+S1223,CSC,Male,Anambra,Off-Campus,Secondary,Yes,No,324,247,78,9,80,Medium,3.45,3.34,3.44,3.55,Second Class Upper,No
+S1224,PHY,Female,Kaduna,Off-Campus,Tertiary,Yes,No,240,160,73,15,61,Medium,2.85,2.92,2.75,2.89,Second Class Lower,No
+S1225,STA,Female,Rivers,Off-Campus,Secondary,Yes,No,191,221,67,9,81,High,3.84,3.94,3.67,3.77,First Class,No
+S1226,MTH,Male,Kano,On-Campus,Secondary,Yes,No,185,237,81,12,48,Low,3.03,3.05,3.13,2.99,Second Class Upper,No
+S1227,BIO,Male,Lagos,Off-Campus,Tertiary,No,No,397,195,87,10,69,Medium,2.78,2.79,2.66,2.5,Second Class Lower,No
+S1228,CHM,Female,Kaduna,Off-Campus,Tertiary,Yes,No,206,242,84,21,70,Medium,3.41,3.29,3.24,3.24,Second Class Upper,No
+S1229,MTH,Male,Rivers,On-Campus,Primary,Yes,No,315,224,81,13,81,Low,2.79,2.8,2.91,2.79,Second Class Lower,No
+S1230,STA,Female,Kano,On-Campus,Secondary,Yes,Yes,390,283,76,20,75,High,3.25,3.28,3.19,3.0,Second Class Upper,No
+S1231,CHM,Male,Kano,Off-Campus,Primary,Yes,No,303,277,91,18,61,Low,2.23,2.24,2.11,1.88,Second Class Lower,Yes
+S1232,PHY,Female,Kaduna,Off-Campus,Tertiary,Yes,Yes,285,216,72,27,65,Low,3.92,3.76,3.77,3.75,First Class,No
+S1233,PHY,Male,Oyo,On-Campus,Tertiary,Yes,No,372,225,93,8,77,Low,2.72,2.67,2.5,2.68,Second Class Lower,No
+S1234,CSC,Female,Lagos,Off-Campus,Secondary,Yes,No,364,228,75,21,74,Medium,3.48,3.45,3.57,3.6,Second Class Upper,No
+S1235,STA,Female,Kano,On-Campus,Tertiary,Yes,No,272,216,77,21,69,High,2.15,2.12,2.21,2.21,Second Class Lower,Yes
+S1236,BIO,Male,Kaduna,Off-Campus,Secondary,Yes,No,288,236,70,10,70,High,3.11,2.93,2.87,2.84,Second Class Upper,No
+S1237,CHM,Male,Kaduna,Off-Campus,Secondary,Yes,Yes,278,207,80,20,82,Low,2.21,2.23,2.18,2.15,Second Class Lower,Yes
+S1238,MTH,Male,Rivers,Off-Campus,,Yes,No,347,196,95,17,70,Medium,3.39,3.21,3.23,3.07,Second Class Upper,No
+S1239,STA,Male,Oyo,Off-Campus,Tertiary,Yes,No,321,249,90,14,74,Low,2.19,2.11,1.98,1.81,Second Class Lower,Yes
+S1240,STA,Male,Lagos,On-Campus,Primary,Yes,No,214,249,95,11,97,Medium,3.03,3.0,2.9,2.86,Second Class Upper,No
+S1241,PHY,Female,Anambra,On-Campus,Tertiary,Yes,No,355,206,90,11,61,Medium,3.49,3.19,3.05,2.89,Second Class Upper,No
+S1242,CSC,Female,Rivers,Off-Campus,Tertiary,Yes,No,263,257,74,25,56,Medium,2.02,2.08,2.04,1.96,Second Class Lower,Yes
+S1243,CSC,Female,Kano,Off-Campus,Tertiary,Yes,No,235,211,82,15,83,Medium,3.41,3.39,3.28,3.23,Second Class Upper,No
+S1244,CHM,Female,Kano,Off-Campus,,Yes,No,356,238,77,19,68,High,3.18,3.25,3.25,3.11,Second Class Upper,No
+S1245,PHY,Female,Rivers,On-Campus,Secondary,Yes,No,320,255,98,11,72,Medium,1.83,1.69,1.43,1.38,Third Class,Yes
+S1246,STA,Female,Kaduna,On-Campus,Primary,Yes,No,368,229,73,11,67,Medium,1.55,1.33,1.36,1.11,Third Class,Yes
+S1247,BIO,Female,Kano,On-Campus,Secondary,No,No,228,244,94,20,72,Low,3.44,3.22,2.96,3.06,Second Class Upper,No
+S1248,PHY,Male,Oyo,Off-Campus,,No,No,225,215,94,8,91,Low,1.92,1.74,1.69,1.69,Third Class,Yes
+S1249,CHM,Male,Lagos,On-Campus,Tertiary,No,No,292,224,100,13,83,High,2.01,1.98,2.07,2.03,Second Class Lower,Yes
+S1250,CHM,Male,Oyo,Off-Campus,Secondary,Yes,No,369,224,81,15,84,Low,3.04,3.02,2.84,2.74,Second Class Upper,No
+S1251,PHY,Male,Kano,Off-Campus,Secondary,Yes,No,315,208,92,16,61,Medium,2.25,2.36,2.3,2.13,Second Class Lower,Yes
+S1252,CHM,Male,Anambra,Off-Campus,Secondary,No,No,222,225,100,14,63,Low,2.66,2.41,2.27,2.23,Second Class Lower,No
+S1253,PHY,Male,Lagos,On-Campus,Secondary,Yes,No,327,184,79,17,47,High,1.88,1.78,1.61,1.7,Third Class,Yes
+S1254,MTH,Female,Lagos,Off-Campus,Secondary,Yes,No,303,215,70,18,67,Low,3.23,3.22,3.14,3.01,Second Class Upper,No
+S1255,PHY,Female,Rivers,Off-Campus,Secondary,Yes,No,276,221,66,19,85,Low,2.6,2.42,2.43,2.3,Second Class Lower,No
+S1256,PHY,Male,Rivers,Off-Campus,Tertiary,Yes,No,269,222,92,10,80,High,3.59,3.64,3.49,3.64,First Class,No
+S1257,CHM,Male,Anambra,Off-Campus,Secondary,No,No,218,223,66,14,73,High,3.39,3.3,3.25,3.2,Second Class Upper,No
+S1258,CHM,Male,Kaduna,Off-Campus,Tertiary,Yes,No,264,228,81,21,75,Medium,3.98,3.95,3.83,3.94,First Class,No
+S1259,CSC,Male,Lagos,Off-Campus,Tertiary,Yes,Yes,356,244,89,19,68,Low,1.27,1.15,1.32,1.33,Third Class,Yes
+S1260,CSC,Male,Anambra,On-Campus,Primary,Yes,No,371,256,87,8,77,Medium,2.49,2.45,2.35,2.39,Second Class Lower,Yes
+S1261,MTH,Female,Rivers,On-Campus,Tertiary,Yes,No,241,211,89,17,83,Low,2.09,2.18,2.19,2.06,Second Class Lower,Yes
+S1262,CSC,Male,Rivers,Off-Campus,Primary,Yes,No,285,194,87,5,59,Low,2.55,2.5,2.28,2.22,Second Class Lower,No
+S1263,PHY,Female,Lagos,Off-Campus,Tertiary,Yes,No,286,199,98,15,78,Medium,3.25,3.09,2.98,3.06,Second Class Upper,No
+S1264,CHM,Female,Oyo,Off-Campus,Secondary,Yes,Yes,233,215,75,24,84,Low,3.07,3.02,2.95,2.81,Second Class Upper,No
+S1265,CSC,Male,Kano,Off-Campus,Tertiary,No,No,305,219,78,10,71,Low,3.22,3.09,2.99,3.08,Second Class Upper,No
+S1266,CSC,Female,Rivers,On-Campus,Tertiary,Yes,No,188,207,77,11,82,Low,3.16,3.22,3.27,3.19,Second Class Upper,No
+S1267,MTH,Female,Kaduna,On-Campus,Tertiary,Yes,No,267,191,93,19,100,High,2.52,2.47,2.26,2.29,Second Class Lower,No
+S1268,STA,Male,Kaduna,Off-Campus,Tertiary,Yes,No,216,216,94,7,74,Medium,2.58,2.59,2.34,2.33,Second Class Lower,No
+S1269,MTH,Male,Rivers,Off-Campus,Secondary,Yes,No,228,235,90,12,79,High,3.5,3.38,3.29,3.19,First Class,No
+S1270,PHY,Female,Oyo,On-Campus,,Yes,Yes,220,248,97,18,68,Medium,3.88,3.83,3.62,3.52,First Class,No
+S1271,CHM,Female,Oyo,Off-Campus,Secondary,Yes,No,196,213,73,12,77,Medium,3.35,3.23,3.24,3.05,Second Class Upper,No
+S1272,MTH,Female,Anambra,On-Campus,Primary,Yes,No,267,218,100,14,80,Low,3.18,3.02,3.05,3.01,Second Class Upper,No
+S1273,CSC,Female,Kaduna,Off-Campus,Secondary,Yes,No,200,202,100,19,77,Medium,1.05,1.0,1.0,1.0,Third Class,Yes
+S1274,CHM,Female,Anambra,On-Campus,Secondary,No,No,230,229,92,17,65,High,2.75,2.67,2.58,2.57,Second Class Lower,No
+S1275,CHM,Female,Kaduna,Off-Campus,Tertiary,Yes,Yes,238,205,100,16,77,High,2.95,3.0,2.98,2.92,Second Class Lower,No
+S1276,CSC,Female,Kano,On-Campus,Secondary,Yes,No,346,247,68,13,90,High,2.24,2.19,2.08,1.99,Second Class Lower,Yes
+S1277,MTH,Female,Kano,Off-Campus,Tertiary,Yes,No,362,176,80,17,79,Medium,3.16,3.16,3.08,3.04,Second Class Upper,No
+S1278,CSC,Female,Lagos,On-Campus,Primary,Yes,No,220,219,78,14,85,High,3.09,3.07,3.12,3.25,Second Class Upper,No
+S1279,STA,Male,Anambra,On-Campus,Tertiary,Yes,No,218,239,92,17,73,Medium,2.57,2.56,2.46,2.37,Second Class Lower,No
+S1280,CHM,Female,Rivers,On-Campus,Tertiary,No,No,320,236,74,13,82,High,2.15,2.2,2.06,1.98,Second Class Lower,Yes
+S1281,BIO,Female,Anambra,Off-Campus,Secondary,No,No,371,311,93,14,78,High,3.17,3.32,3.25,3.27,Second Class Upper,No
+S1282,BIO,Male,Rivers,Off-Campus,Secondary,Yes,Yes,190,240,99,10,65,Medium,2.69,2.71,2.54,2.62,Second Class Lower,No
+S1283,PHY,Female,Oyo,On-Campus,Tertiary,No,No,326,200,92,15,78,High,2.55,2.49,2.56,2.36,Second Class Lower,No
+S1284,CSC,Male,Anambra,Off-Campus,Primary,Yes,No,318,227,88,11,65,Low,2.38,2.47,2.37,2.27,Second Class Lower,Yes
+S1285,CSC,Female,Oyo,Off-Campus,Secondary,Yes,No,256,177,75,9,69,Medium,1.42,1.36,1.43,1.4,Third Class,Yes
+S1286,PHY,Female,Kano,Off-Campus,Secondary,Yes,No,306,228,77,16,77,Medium,2.56,2.32,2.38,2.44,Second Class Lower,No
+S1287,PHY,Female,Kano,On-Campus,Primary,No,Yes,225,205,97,16,78,Medium,2.01,1.85,1.87,1.9,Second Class Lower,Yes
+S1288,PHY,Male,Lagos,Off-Campus,Secondary,Yes,No,224,257,93,19,63,Low,3.54,3.32,3.37,3.19,First Class,No
+S1289,CHM,Female,Anambra,On-Campus,,Yes,No,180,214,85,13,86,Medium,3.94,3.85,3.86,3.79,First Class,No
+S1290,STA,Female,Oyo,On-Campus,,Yes,No,347,226,81,17,81,High,3.04,2.87,2.84,2.85,Second Class Upper,No
+S1291,CSC,Male,Rivers,Off-Campus,Primary,Yes,Yes,287,211,65,18,68,High,3.85,3.88,3.74,3.64,First Class,No
+S1292,CHM,Male,Kano,On-Campus,Tertiary,Yes,No,198,282,74,17,60,High,2.91,2.93,2.91,2.94,Second Class Lower,No
+S1293,PHY,Female,Kano,Off-Campus,Secondary,No,No,255,220,100,11,74,Medium,2.27,2.49,2.6,2.4,Second Class Lower,Yes
+S1294,CSC,Male,Rivers,Off-Campus,Tertiary,Yes,No,251,285,72,16,71,High,3.18,3.01,2.85,2.66,Second Class Upper,No
+S1295,CHM,Male,Oyo,Off-Campus,Secondary,Yes,No,379,254,87,17,76,Medium,2.56,2.36,2.39,2.39,Second Class Lower,No
+S1296,STA,Female,Oyo,Off-Campus,Secondary,No,No,368,244,95,15,71,High,3.43,3.44,3.39,3.41,Second Class Upper,No
+S1297,CHM,Male,Anambra,On-Campus,Secondary,Yes,No,288,241,72,5,55,Low,3.46,3.44,3.34,3.55,Second Class Upper,No
+S1298,STA,Female,Anambra,On-Campus,Secondary,No,Yes,191,242,87,16,71,Low,3.36,3.39,3.32,3.42,Second Class Upper,No
+S1299,PHY,Male,Kaduna,Off-Campus,Primary,Yes,No,368,172,94,26,72,Low,3.04,2.95,2.79,2.88,Second Class Upper,No
+S1300,STA,Female,Kaduna,On-Campus,Secondary,Yes,Yes,340,222,85,13,81,Low,3.33,3.17,3.07,3.0,Second Class Upper,No
+S1301,CSC,Male,Lagos,On-Campus,Primary,Yes,No,224,255,100,11,68,Medium,2.41,2.53,2.57,2.55,Second Class Lower,Yes
+S1302,PHY,Female,Kano,On-Campus,Secondary,No,No,269,229,68,17,92,High,3.23,3.14,2.87,2.96,Second Class Upper,No
+S1303,CSC,Male,Anambra,On-Campus,Secondary,Yes,Yes,282,188,96,17,56,Low,1.05,1.03,1.0,1.0,Third Class,Yes
+S1304,BIO,Female,Oyo,On-Campus,Primary,Yes,No,399,228,83,21,88,Medium,3.6,3.53,3.5,3.4,First Class,No
+S1305,MTH,Male,Rivers,On-Campus,,Yes,Yes,376,281,93,9,73,Low,3.39,3.29,3.15,3.04,Second Class Upper,No
+S1306,STA,Female,Oyo,Off-Campus,Tertiary,Yes,No,187,267,89,19,84,Low,3.73,3.7,3.62,3.76,First Class,No
+S1307,MTH,Female,Kano,Off-Campus,Secondary,Yes,No,332,228,78,18,76,Medium,2.3,2.26,2.17,2.13,Second Class Lower,Yes
+S1308,MTH,Female,Kaduna,Off-Campus,,Yes,Yes,270,259,87,14,86,Medium,3.69,3.66,3.36,3.45,First Class,No
+S1309,STA,Female,Oyo,On-Campus,Tertiary,No,No,353,219,66,17,71,High,2.85,2.7,2.68,2.54,Second Class Lower,No
+S1310,PHY,Male,Lagos,On-Campus,,Yes,No,266,179,91,20,64,High,2.74,2.65,2.63,2.5,Second Class Lower,No
+S1311,BIO,Female,Kano,On-Campus,Secondary,Yes,No,337,202,88,19,89,Low,2.27,2.2,2.14,2.18,Second Class Lower,Yes
+S1312,CSC,Male,Kaduna,Off-Campus,Tertiary,Yes,Yes,354,277,91,9,74,Low,2.12,2.19,2.04,2.06,Second Class Lower,Yes
+S1313,CHM,Male,Rivers,Off-Campus,Primary,No,No,394,222,96,19,77,High,3.12,3.11,3.21,3.21,Second Class Upper,No
+S1314,CSC,Male,Kaduna,On-Campus,Primary,Yes,No,356,223,89,15,87,High,3.45,3.31,3.46,3.63,Second Class Upper,No
+S1315,CHM,Female,Lagos,Off-Campus,Primary,Yes,No,354,221,86,15,65,Medium,3.28,3.23,3.24,3.16,Second Class Upper,No
+S1316,CSC,Female,Kano,On-Campus,Secondary,Yes,Yes,263,287,76,15,81,High,2.53,2.41,2.53,2.5,Second Class Lower,No
+S1317,STA,Male,Rivers,Off-Campus,Primary,Yes,Yes,261,279,78,14,69,High,3.29,3.07,3.06,2.91,Second Class Upper,No
+S1318,BIO,Female,Lagos,Off-Campus,Secondary,Yes,No,325,297,97,21,74,Low,3.18,3.03,2.93,2.99,Second Class Upper,No
+S1319,CHM,Male,Kaduna,Off-Campus,,Yes,No,373,225,99,15,76,High,1.8,1.74,1.78,1.79,Third Class,Yes
+S1320,PHY,Male,Lagos,Off-Campus,Secondary,Yes,No,247,239,83,9,60,Low,3.76,3.76,3.86,3.96,First Class,No
+S1321,CSC,Male,Kano,Off-Campus,Tertiary,Yes,No,340,185,85,13,67,High,2.12,2.32,2.26,2.31,Second Class Lower,Yes
+S1322,CSC,Male,Anambra,On-Campus,Tertiary,Yes,No,306,274,76,16,89,Medium,2.13,2.09,1.96,2.03,Second Class Lower,Yes
+S1323,CHM,Male,Lagos,Off-Campus,Secondary,Yes,No,343,195,97,21,84,High,3.26,3.25,3.37,3.22,Second Class Upper,No
+S1324,PHY,Female,Lagos,On-Campus,Secondary,Yes,No,261,237,92,18,74,High,3.46,3.37,3.24,3.26,Second Class Upper,No
+S1325,PHY,Female,Kaduna,Off-Campus,Secondary,Yes,No,326,197,100,11,77,High,3.15,3.12,2.98,2.92,Second Class Upper,No
+S1326,STA,Male,Kaduna,Off-Campus,Secondary,Yes,No,335,212,76,27,72,Low,2.86,2.84,2.7,2.69,Second Class Lower,No
+S1327,STA,Male,Rivers,Off-Campus,Secondary,Yes,No,347,205,81,16,89,Medium,2.76,2.88,2.71,2.79,Second Class Lower,No
+S1328,STA,Male,Kaduna,Off-Campus,Primary,Yes,No,263,212,87,21,73,High,2.25,2.29,2.02,1.99,Second Class Lower,Yes
+S1329,STA,Female,Oyo,Off-Campus,Tertiary,Yes,No,292,214,91,14,77,Low,1.04,1.0,1.0,1.0,Third Class,Yes
+S1330,STA,Male,Kano,Off-Campus,Secondary,Yes,No,255,214,83,18,86,Medium,2.1,1.88,1.82,1.89,Second Class Lower,Yes
+S1331,STA,Female,Kano,Off-Campus,Primary,Yes,No,301,255,76,19,67,Low,3.36,3.32,3.31,3.18,Second Class Upper,No
+S1332,BIO,Female,Anambra,On-Campus,Secondary,Yes,No,322,197,94,21,91,Low,3.1,3.02,2.96,3.0,Second Class Upper,No
+S1333,PHY,Female,Anambra,On-Campus,Secondary,Yes,No,220,237,92,20,60,Medium,2.37,2.22,2.02,2.02,Second Class Lower,Yes
+S1334,STA,Female,Kano,On-Campus,Tertiary,Yes,Yes,346,267,76,19,91,High,3.25,3.28,3.36,3.26,Second Class Upper,No
+S1335,PHY,Male,Anambra,On-Campus,Tertiary,Yes,No,181,215,99,13,71,Low,3.86,3.78,3.81,3.83,First Class,No
+S1336,PHY,Female,Rivers,Off-Campus,Tertiary,Yes,No,370,208,97,12,73,Low,2.11,2.14,1.95,1.89,Second Class Lower,Yes
+S1337,MTH,Female,Kaduna,On-Campus,,Yes,No,208,223,86,17,56,High,3.2,3.06,2.91,2.89,Second Class Upper,No
+S1338,BIO,Female,Kano,Off-Campus,Secondary,Yes,No,284,265,86,20,70,High,1.48,1.42,1.4,1.34,Third Class,Yes
+S1339,STA,Male,Anambra,On-Campus,Secondary,No,No,381,236,91,14,65,Medium,2.54,2.46,2.32,2.51,Second Class Lower,No
+S1340,CSC,Male,Kano,On-Campus,,Yes,Yes,373,214,76,20,69,Medium,3.4,3.43,3.35,3.48,Second Class Upper,No
+S1341,CHM,Male,Oyo,Off-Campus,Primary,Yes,No,230,245,85,22,74,Medium,1.17,1.05,1.0,1.0,Third Class,Yes
+S1342,CSC,Female,Lagos,Off-Campus,Tertiary,Yes,No,254,197,63,10,85,High,3.4,3.14,3.08,2.93,Second Class Upper,No
+S1343,BIO,Female,Kaduna,Off-Campus,Primary,Yes,No,384,250,94,11,77,Low,3.34,3.39,3.24,3.28,Second Class Upper,No
+S1344,CHM,Female,Kano,Off-Campus,Secondary,Yes,No,189,242,69,14,78,Low,3.27,3.26,2.94,2.92,Second Class Upper,No
+S1345,BIO,Male,Lagos,Off-Campus,Primary,Yes,No,321,221,100,17,64,Medium,3.85,3.78,3.67,3.59,First Class,No
+S1346,PHY,Female,Anambra,On-Campus,,Yes,No,389,205,82,12,66,High,2.41,2.28,2.22,2.11,Second Class Lower,Yes
+S1347,CHM,Male,Lagos,Off-Campus,Primary,No,No,230,203,83,22,93,Low,3.07,3.07,2.95,3.1,Second Class Upper,No
+S1348,PHY,Male,Kaduna,Off-Campus,Tertiary,Yes,Yes,297,246,79,17,68,Medium,3.33,3.56,3.55,3.58,Second Class Upper,No
+S1349,CSC,Male,Kano,Off-Campus,Tertiary,Yes,No,380,267,82,15,92,Low,3.26,3.07,2.78,2.77,Second Class Upper,No
+S1350,CSC,Female,Oyo,On-Campus,Tertiary,Yes,No,300,211,99,8,73,Low,2.63,2.51,2.44,2.32,Second Class Lower,No
+S1351,CHM,Male,Anambra,Off-Campus,Secondary,Yes,No,218,244,60,8,75,High,2.33,2.46,2.44,2.14,Second Class Lower,Yes
+S1352,CHM,Female,Kano,On-Campus,Primary,Yes,No,207,167,98,16,86,High,3.44,3.46,3.49,3.46,Second Class Upper,No
+S1353,STA,Female,Kaduna,On-Campus,Secondary,Yes,Yes,182,212,88,4,88,Low,3.29,3.08,2.92,3.01,Second Class Upper,No
+S1354,BIO,Male,Anambra,On-Campus,Secondary,Yes,No,263,229,73,20,74,Medium,3.04,2.85,2.71,2.62,Second Class Upper,No
+S1355,STA,Female,Rivers,Off-Campus,Tertiary,Yes,Yes,377,203,74,14,71,High,3.22,3.08,3.08,2.89,Second Class Upper,No
+S1356,BIO,Male,Lagos,Off-Campus,,Yes,No,334,202,100,31,74,Low,2.75,2.72,2.61,2.55,Second Class Lower,No
+S1357,STA,Male,Kaduna,Off-Campus,Secondary,Yes,No,296,210,76,27,78,High,2.79,2.73,2.83,2.87,Second Class Lower,No
+S1358,PHY,Male,Rivers,Off-Campus,Primary,Yes,Yes,181,239,73,14,84,High,3.24,3.21,3.14,2.99,Second Class Upper,No
+S1359,CHM,Male,Kano,Off-Campus,Secondary,No,No,272,224,96,14,75,High,3.44,3.28,3.18,3.06,Second Class Upper,No
+S1360,CSC,Female,Oyo,On-Campus,Tertiary,No,Yes,345,163,88,20,81,Low,3.13,3.17,2.95,3.0,Second Class Upper,No
+S1361,BIO,Male,Anambra,On-Campus,Secondary,Yes,No,310,166,76,24,91,Medium,2.41,2.44,2.46,2.38,Second Class Lower,Yes
+S1362,BIO,Female,Lagos,Off-Campus,Secondary,Yes,No,323,212,87,7,79,Medium,3.44,3.29,3.37,3.22,Second Class Upper,No
+S1363,CSC,Female,Anambra,On-Campus,Secondary,Yes,Yes,273,244,75,6,78,Medium,1.89,1.84,1.88,1.71,Third Class,Yes
+S1364,STA,Female,Kano,Off-Campus,Secondary,Yes,No,219,160,96,12,60,High,2.68,2.49,2.57,2.53,Second Class Lower,No
+S1365,BIO,Female,Anambra,Off-Campus,Tertiary,No,Yes,181,215,96,18,49,Low,3.42,3.44,3.25,3.24,Second Class Upper,No
+S1366,PHY,Female,Lagos,Off-Campus,Tertiary,Yes,No,260,214,90,17,79,High,2.09,2.04,1.84,1.67,Second Class Lower,Yes
+S1367,CHM,Male,Kano,Off-Campus,Tertiary,Yes,No,348,272,89,20,74,Medium,2.86,2.9,2.82,2.89,Second Class Lower,No
+S1368,CSC,Male,Anambra,Off-Campus,Tertiary,Yes,No,191,218,100,9,70,Medium,2.32,2.27,2.09,2.0,Second Class Lower,Yes
+S1369,CHM,Female,Oyo,Off-Campus,Secondary,Yes,Yes,342,241,85,3,77,Low,3.09,3.19,3.12,3.21,Second Class Upper,No
+S1370,BIO,Female,Kaduna,Off-Campus,Secondary,Yes,No,244,234,73,19,74,High,3.12,3.12,3.08,2.92,Second Class Upper,No
+S1371,BIO,Male,Kano,Off-Campus,Secondary,No,No,234,166,89,11,86,Medium,2.41,2.51,2.49,2.47,Second Class Lower,Yes
+S1372,CSC,Male,Kaduna,On-Campus,Primary,Yes,No,224,253,100,5,76,Low,2.25,2.13,2.11,1.93,Second Class Lower,Yes
+S1373,PHY,Male,Kano,Off-Campus,Tertiary,Yes,No,386,236,75,16,68,High,2.32,2.2,2.3,2.2,Second Class Lower,Yes
+S1374,MTH,Female,Oyo,Off-Campus,,No,No,397,245,81,19,85,High,2.13,2.26,2.18,2.25,Second Class Lower,Yes
+S1375,CSC,Male,Kaduna,On-Campus,Tertiary,Yes,No,280,348,89,14,73,Medium,2.29,2.11,2.06,1.87,Second Class Lower,Yes
+S1376,MTH,Male,Rivers,Off-Campus,Secondary,Yes,No,392,167,84,13,80,Medium,2.57,2.27,2.14,1.94,Second Class Lower,No
+S1377,STA,Male,Lagos,Off-Campus,Secondary,Yes,No,241,282,75,14,70,High,3.22,3.16,3.1,2.96,Second Class Upper,No
+S1378,MTH,Male,Rivers,Off-Campus,Secondary,Yes,No,228,221,96,13,69,High,2.34,2.36,2.32,2.35,Second Class Lower,Yes
+S1379,PHY,Female,Anambra,On-Campus,Tertiary,No,No,306,239,100,8,76,Medium,2.74,2.41,2.44,2.42,Second Class Lower,No
+S1380,STA,Male,Oyo,Off-Campus,Secondary,Yes,Yes,332,229,87,11,75,High,2.88,2.97,2.91,2.84,Second Class Lower,No
+S1381,MTH,Female,Rivers,Off-Campus,Secondary,No,No,202,217,76,18,80,Medium,2.75,2.7,2.57,2.59,Second Class Lower,No
+S1382,STA,Male,Kano,On-Campus,,Yes,No,331,213,70,17,72,High,3.16,3.09,3.16,2.94,Second Class Upper,No
+S1383,MTH,Female,Anambra,On-Campus,Secondary,No,No,217,240,88,16,57,Medium,2.74,2.55,2.49,2.43,Second Class Lower,No
+S1384,PHY,Male,Anambra,Off-Campus,Primary,Yes,No,207,184,96,10,71,Low,2.15,2.06,1.99,2.21,Second Class Lower,Yes
+S1385,MTH,Male,Rivers,On-Campus,Tertiary,Yes,No,200,253,90,14,83,Medium,3.06,3.06,3.09,3.0,Second Class Upper,No
+S1386,MTH,Female,Rivers,Off-Campus,Secondary,Yes,Yes,361,218,85,4,72,Medium,2.34,2.39,2.4,2.38,Second Class Lower,Yes
+S1387,MTH,Female,Oyo,Off-Campus,Secondary,No,Yes,286,196,79,16,73,Low,3.4,3.38,3.31,3.26,Second Class Upper,No
+S1388,CSC,Female,Lagos,On-Campus,,Yes,No,325,216,74,22,85,High,3.12,3.17,3.23,3.22,Second Class Upper,No
+S1389,CSC,Female,Rivers,Off-Campus,,Yes,No,343,268,93,8,68,Low,3.53,3.48,3.39,3.26,First Class,No
+S1390,CSC,Female,Rivers,Off-Campus,Tertiary,Yes,No,278,214,94,12,60,Medium,3.06,3.07,3.11,2.95,Second Class Upper,No
+S1391,PHY,Male,Kaduna,Off-Campus,,Yes,No,352,241,70,17,73,High,2.85,2.95,2.79,2.71,Second Class Lower,No
+S1392,STA,Female,Kano,On-Campus,,No,No,298,208,100,21,70,Low,2.63,2.45,2.17,2.15,Second Class Lower,No
+S1393,BIO,Male,Kaduna,Off-Campus,,Yes,No,252,253,91,13,65,High,2.25,2.25,2.29,2.24,Second Class Lower,Yes
+S1394,MTH,Female,Kaduna,On-Campus,Tertiary,Yes,No,360,251,99,12,73,High,2.55,2.63,2.52,2.47,Second Class Lower,No
+S1395,MTH,Female,Anambra,On-Campus,Tertiary,Yes,Yes,301,285,72,5,80,Low,3.26,3.23,3.25,3.28,Second Class Upper,No
+S1396,PHY,Female,Lagos,Off-Campus,Secondary,Yes,No,209,225,71,16,75,High,3.32,3.26,3.11,3.0,Second Class Upper,No
+S1397,MTH,Female,Kano,On-Campus,Primary,Yes,No,367,250,84,25,78,Low,2.23,2.36,2.43,2.34,Second Class Lower,Yes
+S1398,CSC,Male,Oyo,Off-Campus,Secondary,Yes,Yes,287,233,90,16,93,Medium,3.42,3.34,3.24,3.04,Second Class Upper,No
+S1399,BIO,Female,Oyo,On-Campus,Tertiary,Yes,No,277,269,100,15,72,High,1.31,1.36,1.4,1.22,Third Class,Yes
+S1400,CHM,Male,Rivers,Off-Campus,Secondary,Yes,No,211,208,92,17,78,Medium,2.69,2.47,2.44,2.46,Second Class Lower,No
+S1401,MTH,Female,Rivers,On-Campus,Primary,Yes,No,374,252,83,15,70,Medium,2.02,1.91,1.97,1.83,Second Class Lower,Yes
+S1402,CSC,Female,Oyo,Off-Campus,Primary,Yes,No,374,224,75,11,67,High,1.37,1.36,1.23,1.27,Third Class,Yes
+S1403,CHM,Male,Rivers,Off-Campus,,Yes,No,335,228,97,19,69,Low,3.17,3.2,3.23,3.11,Second Class Upper,No
+S1404,BIO,Female,Lagos,On-Campus,Secondary,Yes,No,351,233,75,16,70,High,3.27,3.23,3.12,3.12,Second Class Upper,No
+S1405,CHM,Female,Kaduna,On-Campus,Tertiary,Yes,No,258,238,100,15,79,Medium,2.07,1.96,1.95,2.0,Second Class Lower,Yes
+S1406,CSC,Female,Rivers,On-Campus,Primary,No,No,220,227,82,10,98,Medium,3.39,3.34,3.3,3.22,Second Class Upper,No
+S1407,STA,Female,Anambra,Off-Campus,,No,Yes,242,236,100,22,68,Low,1.22,1.19,1.12,1.34,Third Class,Yes
+S1408,STA,Male,Rivers,On-Campus,,Yes,No,202,277,92,18,71,High,3.84,3.78,3.81,3.93,First Class,No
+S1409,CHM,Female,Kano,Off-Campus,Tertiary,Yes,No,283,260,84,12,74,Medium,2.8,2.81,2.73,2.7,Second Class Lower,No
+S1410,PHY,Female,Lagos,Off-Campus,Primary,No,No,254,256,80,20,79,Medium,2.56,2.54,2.34,2.28,Second Class Lower,No
+S1411,CHM,Male,Kano,On-Campus,Tertiary,Yes,No,227,216,82,13,78,Medium,2.73,2.89,2.92,2.91,Second Class Lower,No
+S1412,MTH,Female,Kano,Off-Campus,Secondary,Yes,No,339,203,89,11,88,Low,3.32,3.18,3.01,3.12,Second Class Upper,No
+S1413,MTH,Male,Anambra,Off-Campus,Secondary,Yes,No,236,259,86,11,51,Medium,3.17,3.09,2.89,2.93,Second Class Upper,No
+S1414,STA,Male,Lagos,On-Campus,Primary,Yes,No,297,256,79,6,51,Medium,2.8,2.83,2.86,2.77,Second Class Lower,No
+S1415,PHY,Female,Lagos,On-Campus,Primary,Yes,No,279,274,83,17,70,High,3.14,2.9,3.0,2.89,Second Class Upper,No
+S1416,CSC,Female,Lagos,On-Campus,Secondary,Yes,No,303,212,86,6,86,High,2.57,2.51,2.43,2.38,Second Class Lower,No
+S1417,MTH,Male,Lagos,Off-Campus,Tertiary,No,No,340,223,64,9,59,Medium,2.74,2.79,2.8,2.63,Second Class Lower,No
+S1418,STA,Female,Lagos,Off-Campus,Secondary,No,No,331,181,90,5,45,Medium,2.38,2.24,2.0,1.91,Second Class Lower,Yes
+S1419,BIO,Male,Anambra,Off-Campus,Secondary,Yes,No,346,218,75,15,81,High,2.3,2.21,2.16,2.18,Second Class Lower,Yes
